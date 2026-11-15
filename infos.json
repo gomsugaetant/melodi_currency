@@ -1,0 +1,13 @@
+{
+  "name": "melodi_currency",
+  "title": "MELODI Devises & Taux de Change",
+  "version": "1.0.0",
+  "description": "Gestion des devises monétaires, symboles et taux de conversion de change.",
+  "author": "BYT3LAB",
+  "category": "finance",
+  "icon": "attach_money",
+  "depends": [
+    "base"
+  ],
+  "depends_python": []
+}
